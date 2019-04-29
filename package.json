@@ -1,0 +1,29 @@
+{
+  "name": "hyper-lilac-theme",
+  "version": "1.0.0",
+  "description": "A theme for hyper based on the Lilac VS Code theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-saudolla/hyper-lilac-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "lilac",
+    "pink",
+    "aesthetic",
+    "goth",
+    "dark",
+    "vaporwave"
+  ],
+  "author": "shubham-saudolla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham-saudolla/hyper-lilac-theme/issues"
+  },
+  "homepage": "https://github.com/shubham-saudolla/hyper-lilac-theme#readme"
+}
