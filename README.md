@@ -8,7 +8,7 @@
 [![Commits](https://img.shields.io/github/last-commit/shubham-saudolla/hyper-lilac-theme.svg?style=for-the-badge)](https://www.npmjs.com/package/hyper-lilac-theme)
 [![License](https://img.shields.io/npm/l/hyper-lilac-theme.svg?style=for-the-badge)](https://www.npmjs.com/package/hyper-lilac-theme)
 
-Lilac is a dark colour theme with pretty pastel colours for [Hyper](https://hyper.is/).
+[Lilac](https://www.npmjs.com/package/hyper-lilac-theme) is a dark colour theme with pretty pastel colours for [Hyper](https://hyper.is/).
 
 <a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" width='600'/></a>
 
