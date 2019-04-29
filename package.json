@@ -1,6 +1,6 @@
 {
   "name": "hyper-lilac-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A theme for hyper based on the Lilac VS Code theme",
   "main": "index.js",
   "scripts": {
