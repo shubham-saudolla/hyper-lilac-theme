@@ -46,9 +46,6 @@ module.exports.decorateConfig = config => {
         colors,
         termCSS: `
     ${config.termCSS || ''}
-        .cursor-node {
-        mix-blend-mode: difference;
-        }
     `,
         css: `
         ${config.css || ''}
