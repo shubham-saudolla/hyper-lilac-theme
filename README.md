@@ -1,16 +1,22 @@
+<div align = "center">
+<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacIconFull.png" width = "200"/>
+
 # Lilac
 
-<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png" width = "400"/>
+[![npm](https://img.shields.io/npm/v/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
+[![Commits](https://img.shields.io/npm/dw/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
+[![License](https://img.shields.io/npm/l/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
 
-## Lilac Hyper Theme
+Lilac is a dark colour theme with pretty pastel colours.
 
-[![npm](https://img.shields.io/npm/v/hyper-lilac-theme.svg?style=for-the-badge)](https://www.npmjs.com/package/hyper-lilac-theme)
-[![Commits](https://img.shields.io/github/last-commit/shubham-saudolla/hyper-lilac-theme.svg?style=for-the-badge)](https://www.npmjs.com/package/hyper-lilac-theme)
-[![License](https://img.shields.io/npm/l/hyper-lilac-theme.svg?style=for-the-badge)](https://www.npmjs.com/package/hyper-lilac-theme)
+<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" width='769'/></a>
 
-[Lilac](https://www.npmjs.com/package/hyper-lilac-theme) is a dark colour theme with pretty pastel colours for [Hyper](https://hyper.is/).
+[![Download](https://img.shields.io/static/v1.svg?label=Download&message=Hyper&style=for-the-badge&labelColor=000000&color=a29dfa)](https://hyper.is/)
+</div>
 
-<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/hyper-lilac-theme/hyperLilacScreenshot.png" width='600'/></a>
+---
+
+## Support the project
 
 To show support for the project, you can do any (or many!) of the following:
 
@@ -18,7 +24,9 @@ To show support for the project, you can do any (or many!) of the following:
 - [Follow me on twitter, and say hi!](https://twitter.com/joyDivided13)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
 
-### Easy Installation
+---
+
+## Easy Installation
 
 To install the color themes, enter the following command in Hyper :
 
@@ -26,7 +34,9 @@ To install the color themes, enter the following command in Hyper :
 hyper i hyper-lilac-theme
 ```
 
-### Manual Installation
+---
+
+## Manual Installation
 
 1. Open Hyper's preferences with `Cmd + ,` (or manually at `~/.hyper.js`) with your editor.
 2. Update your list of plugins to include `hyper-lilac-theme`, as given below.
@@ -38,10 +48,12 @@ plugins: [
 ],
 ```
 
-### Useful Information
+---
+
+## Useful Information
 
 This theme was inspired by [Lilac](https://github.com/shubham-saudolla/Lilac-Theme), a theme I created for [Visual Studio Code](https://code.visualstudio.com/).
 
 If you'd like to report a bug with the theme, please raise an issue with the repository.
 
-Shubham.
+👾 Shubham.
