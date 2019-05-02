@@ -4,7 +4,7 @@
 # Lilac
 
 [![npm](https://img.shields.io/npm/v/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
-[![Commits](https://img.shields.io/npm/dw/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
+[![Commits](https://img.shields.io/npm/dt/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
 [![License](https://img.shields.io/npm/l/hyper-lilac-theme.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://www.npmjs.com/package/hyper-lilac-theme)
 
 Lilac is a dark colour theme with pretty pastel colours.
